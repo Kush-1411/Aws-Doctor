@@ -98,7 +98,9 @@ This sample is based on the blog post (Link to be specified). It shows you how t
     Derive insights with Amazon Comprehend.
     Interact with these insights in natural language using Amazon Lex.
 
-The following diagram illustrates the architecture of the solution
+The following diagram illustrates the architecture of the solution:-
+<img width="914" alt="arch" src="https://user-images.githubusercontent.com/69034923/93021162-ea529380-f5fe-11ea-93e3-026427665d59.png">
+
 
 
 
