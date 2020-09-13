@@ -7,14 +7,7 @@
 
 Screenshot
 
-
-
-
-
-
-
-
-
+![20200904_111814](https://user-images.githubusercontent.com/69034923/93019095-83c77880-f5f2-11ea-9f05-6b9d4157a727.png)
 
 
 The full guide can be found on the AWS Compute Blog https://aws.amazon.com/blogs/compute/building-a-serverless-document-scanner-using-amazon-textract-and-aws-amplify/
