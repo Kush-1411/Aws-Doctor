@@ -24,8 +24,8 @@ Frontend
     Follow the instructions to install and configure the Amplify CLI.
     Clone this project from GitHub and navigate to the amplify-frontend directory.
 
-git clone https://github.com/aws-samples/aws-serverless-document-scanner
-cd aws-serverless-document-scanner/amplify-frontend
+git clone https://github.com/Kush-1411/Aws-Doctor.git
+cd Aws-Doctor/amplify-frontend
 
     Install the dependencies.
 
