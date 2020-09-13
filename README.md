@@ -1,13 +1,19 @@
 # Aws-Doctor
 
+Problem :-
+
+As we have seen the a big problem in front of us  is a corona virus and we have seen that the people who are suffering from other diseases can’t get a regular check up who have a regular check up of their medical problem like kidney and heart because of lockdown or the social distancing the doctors are only attend the patients who have corona , rest of the people who do not have corona but have other diseases can’t get a proper treatment . Even can properly consult .
 
 
+Solution :- 
+
+To provide  the right advice and medicine from reports as well as an intelligent chatbot name doctor is used to provide a recommendation and in an emergency a call with a doctor but you have to fix your slot . You have to just scanned your documents and you get a desired result as well as a real time doctor solution and you can use speech  as well as text with our chatbots and many other features .
 
 
+Technology :-
 
-Screenshot
-
-![20200904_111814](https://user-images.githubusercontent.com/69034923/93019095-83c77880-f5f2-11ea-9f05-6b9d4157a727.png)
+Serverless application for using Amazon Textract, AWS Amplify, Amazon API Gateway, AWS Lambda, Amazon S3, Amazon Cognito, and Amazon DynamoDB to create a document scanner application. Users can register, login, create projects, and upload images of text and generate a downloadable PDF of the detected text.
+For doctor chatbot amazon lex , amazon polly , amazon s3 ,amazon lambda ,amazon api gateway.team
 
 
 The full guide can be found on the AWS Compute Blog https://aws.amazon.com/blogs/compute/building-a-serverless-document-scanner-using-amazon-textract-and-aws-amplify/
@@ -32,6 +38,11 @@ amplify init
     Use Amplify to deploy the backend resources using AWS CloudFormation.
 
 amplify push
+
+Services Flow :- 
+
+![20200904_111814](https://user-images.githubusercontent.com/69034923/93019095-83c77880-f5f2-11ea-9f05-6b9d4157a727.png)
+
 
 Deploy the backend
 
