@@ -126,7 +126,7 @@ The following diagram illustrates the architecture of the solution:-
 
     You deploy the Lexbot Web UI in your AWS Cloudformation template by using an existing CloudFormation stack as a nested stack. To download the stack, see Deploy a Web UI for Your Chatbot. This nested stack deploys a Lex Web UI, the webpage is served as a static website from an S3 bucket. The web UI uses Amazon Cognito to generate an access token for authentication and uses AWS CodeStar to set up a delivery pipeline.The end-users interact this chatbot web UI. Please refer to this AWS github repo if you need more details on how to setup a Web UI for your Amazon Lex chatbots - https://github.com/aws-samples/aws-lex-web-ui.
 
-Deploy 1 click
+
 ![launchstack](https://user-images.githubusercontent.com/69034923/93021210-1d952280-f5ff-11ea-9fa3-1da481781c1e.png)
 
-button
+
