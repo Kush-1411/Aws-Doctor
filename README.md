@@ -2,7 +2,7 @@
 
 Problem :-
 
-As we have seen the a big problem in front of us  is a corona virus and we have seen that the people who are suffering from other diseases can’t get a regular check up who have a regular check up of their medical problem like kidney and heart because of lockdown or the social distancing the doctors are only attend the patients who have corona , rest of the people who do not have corona but have other diseases can’t get a proper treatment . Even can properly consult .
+As we have seen a big problem in front of us  is a corona virus and we have seen that the people who are suffering from other diseases can’t get a regular check up who have a regular check up of their medical problem like kidney and heart because of lockdown or the social distancing the doctors are only attend the patients who have corona , rest of the people who do not have corona but have other diseases can’t get a proper treatment . Even can properly consult .
 
 
 Solution :- 
